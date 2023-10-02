@@ -1,0 +1,3 @@
+Tout se trouve dans le dossier MyAdditions + ThirdPerson
+Les couleurs ne sont pas gardées quand on clone le projet.
+Merci.
